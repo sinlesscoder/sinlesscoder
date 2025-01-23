@@ -29,5 +29,3 @@ Hello, my name is Ali Ahmed, and I am a data scientist professional with a passi
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinlesscoder&show_icons=true&locale=en&theme=dark" alt="sinlesscoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinlesscoder&theme=dark" alt="sinlesscoder" /></p>
