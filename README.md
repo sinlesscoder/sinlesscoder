@@ -1,8 +1,7 @@
 # Ali Ahmed
 
 # 💫 About Me:
-Hello, my name is Ali Ahmed, and I am a data scientist professional with a passion for innovation and a drive to improve healthcare outcomes. With one years of experience in the tech industry, I have become a master of data management, processing, and analysis. I am skilled in Python and SQL, and able to turn complex data sets into actionable insights. I am expanding my skill set by learning Rust, a programming language known for its performance and memory safety. I am not just a data scientist, but also a problem solver and a team player who is always looking for ways to improve and optimize the data process. I am the perfect addition to any team looking to make the most out of their data.
-
+Hello, my name is Ali Ahmed, and I am a data professional with a passion for innovation and a driving positive business outcomes. With two years of experience in the tech industry, I have become a master of data management, processing, analysis, ETL, and machine learning. I am skilled in Python and SQL, and able to turn complex data sets into actionable insights. I am expanding my skill set by learning Rust, a programming language known for its performance and memory safety. I am not just a data professional, but also a problem solver and a team player who is always looking for ways to improve and optimize the data and software engineering lifecycles. I am a great addition to any team looking to make the most out of their data or software engineering teams to drive significant impact in record time and with minimal resources.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed5) 
