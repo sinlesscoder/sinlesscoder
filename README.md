@@ -1,7 +1,18 @@
 # Ali Ahmed
 
 # 💫 About Me:
-Hello, my name is Ali Ahmed, and I am a data professional with a passion for innovation and a driving positive business outcomes. With two years of experience in the tech industry, I have become a master of data management, processing, analysis, ETL, and machine learning. I am skilled in Python and SQL, and able to turn complex data sets into actionable insights. I am expanding my skill set by learning Rust, a programming language known for its performance and memory safety. I am not just a data professional, but also a problem solver and a team player who is always looking for ways to improve and optimize the data and software engineering lifecycles. I am a great addition to any team looking to make the most out of their data or software engineering teams to drive significant impact in record time and with minimal resources.
+MS Data Science candidate at City University of New York (December 2025, 4.0 GPA) 
+specializing in machine learning and graph neural networks.
+
+🔬 Research: Developing novel deep learning architectures combining Graph Attention 
+Networks with hyperbolic embeddings for medical image classification
+
+💻 Technical Skills: Python, PyTorch, SQL, AWS, Apache Spark, Data Engineering
+
+🌏 Fluent in Japanese | Based in New York, NY
+
+📊 Seeking Data Scientist, ML Engineer, or Data Analyst roles starting January 2026.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed5) 
